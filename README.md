@@ -468,6 +468,8 @@
             font-size: 0.85rem;
         }
     </style>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 </head>
 <body>
 
